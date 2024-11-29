@@ -25,6 +25,7 @@ public class DecompositionExample {
         System.out.println("Первый клиент: " + clientOne);
         System.out.println("Второй клиент: " + clientTwo);
 
+        // Пример выходных данных
         String outputExample = "Иван, Анна";
 
         System.out.println("Отдаём на фронт: " + outputExample);
